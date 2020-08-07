@@ -1,2 +1,3 @@
 Our project aims to use the TensorFlow framework to build an ML model to predict the success of a movie using data mining. We also intend to deploy this model in a web application with an intuitive interface for a better user experience. 
 In order to do this We will develop a prediction methodology based on historical data. Some of the criteria involved in calculating success includes actor, budget, director, producer, story writer, music, release date and competing movies. 
+This method helps to find out whether the movie is super hit, hit, average or flop and users can easily decide whether to watch the movie or not. 
