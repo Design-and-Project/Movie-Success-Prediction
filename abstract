@@ -1,3 +1,6 @@
+With the flourish of the Web, online review is becoming a more and more useful and important information resource for people. As a result, automatic movie review  has become a hot research topic recently.
+Nowadays, a large number of reviews posted by the consumers on the Web, providing valuable information to other consumers.
+Such information is highly essential for decision making and hence popular among the internet users. This information is very valuable not only for prospective consumers to make decisions but also for businesses in predicting the success and sustainability
 Our project aims to use the TensorFlow framework to build an ML model to predict the success of a movie using data mining. We also intend to deploy this model in a web application with an intuitive interface for a better user experience. 
 In order to do this We will develop a prediction methodology based on historical data. Some of the criteria involved in calculating success includes actor, budget, director, producer, story writer, music, release date and competing movies. 
 This method helps to find out whether the movie is super hit, hit, average or flop and users can easily decide whether to watch the movie or not. 
